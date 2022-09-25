@@ -8,7 +8,7 @@ I am passionate about building high-quality software that solves real-world prob
 
 * 🌍  I'm based in Nigeria 
 * ✉️  You can contact me at [ifeanyiiloabachied@gmail.com](mailto:ifeanyiiloabachied@gmail.com) 
-* 🧠  I'm learning C++ and DevOps 
+* 🧠  I'm learning DevOps 
 * ⚡  Fun fact: I'm an avid gamer 🎮
 
 ### Skills
