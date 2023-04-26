@@ -1,7 +1,7 @@
 Hi 👋 My name is Derick 
 =======================  
 
-Full-Stack Developer 
+Critical Thinker, Great Executioner
 --------------------  
 
 I am passionate about building high-quality software that solves real-world problems and I consider solving problems the best teacher. 
