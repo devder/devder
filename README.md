@@ -1,7 +1,7 @@
 Hi 👋 My name is Derick 
 =======================  
 
-Critical Thinker, Great Executioner
+Avid Learner, Critical Thinker, Great Executioner
 --------------------  
 
 I am passionate about building high-quality software that solves real-world problems and I consider solving problems the best teacher. 
