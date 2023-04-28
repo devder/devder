@@ -11,7 +11,7 @@ I am passionate about building high-quality software that solves real-world prob
 
 ### Technologies
 
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
 ### Socials 
 
