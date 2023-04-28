@@ -6,7 +6,7 @@ Avid Learner, Critical Thinker, Great Executioner
 
 I am passionate about building high-quality software that solves real-world problems and I consider solving problems the best teacher. 
 
-* 🧠  I'm currently learning DevOps and Golang 
+* 🧠  I'm currently learning Golang and Platform Engineering 
 * ⚡  Fun fact: I'm an avid gamer 🎮
 
 ### Technologies
