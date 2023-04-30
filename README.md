@@ -6,7 +6,8 @@ Avid Learner, Critical Thinker, Great Executioner
 
 I am passionate about building high-quality software that solves real-world problems and I consider solving problems the best teacher. 
 
-* 🧠  I'm currently learning Golang and Cloud Computing
+* 📚  Currently studying for my AWS Certified Developer Exam
+* 🧠  I'm learning Golang and Cloud Computing
 * 🔭  I'm a team player and I love to share my knowledge, so I sometimes write at [dev.to](https://dev.to/devder)
 * ⚡  Fun fact: I'm an avid gamer 🎮
 
