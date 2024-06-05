@@ -6,8 +6,7 @@ Avid Learner, Critical Thinker, Great Executioner
 
 I am passionate about building high-quality software that solves real-world problems and I consider solving problems the best teacher. 
 
-* 📚  Currently studying for my AWS Developer Exam
-* 🧠  I'm interested in Cloud Computing
+* 🧠  I'm interested in Cloud Computing and Platform Engineering
 * 🔭  I'm a team player and I love to share my knowledge, so I sometimes write at [dev.to](https://dev.to/devder)
 * ⚡  Fun fact: I'm an avid gamer 🎮
 
