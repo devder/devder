@@ -1,4 +1,4 @@
-Hi 👋 My name is Derick 
+Hi 👋 My name is Ifeanyi Derick 
 =======================  
 
 Avid Learner, Critical Thinker, Great Executioner
