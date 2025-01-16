@@ -1,4 +1,4 @@
-Hi 👋 My name is Ifeanyi D.
+Hi 👋 My name is Ifeanyi
 =======================  
 
 Avid Learner, Critical Thinker, Great Executioner
